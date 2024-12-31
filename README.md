@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning FULL STACK DEVELOPER.
 - 💞️ I’m looking to collaborate on Github on various Development 
 - 📫 How to reach me ?
-          ##[link][https://wwww.linked.com/in/abdulsamadmughal]
+          https://wwww.linked.com/in/abdulsamadmughal
 - 😄 Pronouns: 
 - ⚡ Fun fact: Coding | Coding | coding | Coding
 
